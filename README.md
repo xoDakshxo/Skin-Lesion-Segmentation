@@ -13,3 +13,9 @@ My work aims at providing an automated image-based method for diagnosing and cat
 
 ## Conclusion
 This project aims to make the diagnosis of skin diseases more accessible and efficient. By leveraging advanced image processing and machine learning techniques, I hope to contribute to the field of dermatology and help those suffering from skin diseases get the help they need. I believe that technology can play a crucial role in healthcare, and this project is a step in that direction.
+
+## Dataset Drive Link
+https://drive.google.com/drive/folders/1MeVUXksyOf_KCGVECtcSDsm2BGDScbSN?usp=sharing 
+
+## Colab Link
+https://colab.research.google.com/drive/1UU7vAFk4bQgBy45ocrOxcXMQ7Rb5MbX2
